@@ -1,7 +1,7 @@
-﻿int[] ArraySub = new int[] {2,7,6,4,5,1,2,6,4,1};
+﻿int[] ArraySub = new int[] { 2, 7, 6, 4, 5, 1, 2, 6, 4, 1 };
 
 minmax MinMaxFinder = new minmax();
-MinMaxFinder.FindMinMax(ArraySub,out int min, out int max);
+MinMaxFinder.FindMinMax(ArraySub, out int min, out int max);
 
 
 int Maxindex = -1;
@@ -14,13 +14,13 @@ for (int i = 0; i < ArraySub.Length; i++)
     {
         Minindex = i;
 
-        if(Maxindex !=-1)
+        if (Maxindex != -1)
         {
             int subArrayLength = (Minindex - Maxindex) + 1;
             result = Math.Min(result, subArrayLength);
         }
     }
-    
+
 
     if (ArraySub[i] == max)
     {
@@ -31,7 +31,7 @@ for (int i = 0; i < ArraySub.Length; i++)
             int subArrayLength = (Maxindex - Minindex) + 1;
             result = Math.Min(result, subArrayLength);
         }
-   
+
     }
 }
 Console.WriteLine(result);
@@ -42,7 +42,7 @@ public class minmax
     {
         min = Array[0];
         max = Array[0];
-        for(int i = 0; i < Array.Length; i++)
+        for (int i = 0; i < Array.Length; i++)
         {
             if (Array[i] < min)
                 min = Array[i];
