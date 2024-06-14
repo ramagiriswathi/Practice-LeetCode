@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\bin\Debug\net8.0\MatrixTranspose.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\bin\Debug\net8.0\MatrixTranspose.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\bin\Debug\net8.0\MatrixTranspose.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\bin\Debug\net8.0\MatrixTranspose.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\bin\Debug\net8.0\MatrixTranspose.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\obj\Debug\net8.0\refint\MatrixTranspose.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\MatrixTranspose\obj\Debug\net8.0\ref\MatrixTranspose.dll
