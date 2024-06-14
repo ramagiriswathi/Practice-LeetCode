@@ -21,6 +21,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DMatrix-columnwisesum", "2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalMatrix-RtoL", "DiagonalMatrix-RtoL\DiagonalMatrix-RtoL.csproj", "{BA221F03-DFAC-4A25-8FB5-3DB804961E0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTranspose", "MatrixTranspose\MatrixTranspose.csproj", "{1D413B5A-7024-49CD-B1C0-DCC04CD4E7E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateMatrix-90degree", "RotateMatrix-90degree\RotateMatrix-90degree.csproj", "{8C020F10-056E-44E5-BDC8-1EE5AE67D838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRotation90degree", "MatrixRotation90degree\MatrixRotation90degree.csproj", "{9F3DFA10-A21B-446A-B72F-0C4736D2198B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +72,17 @@ Global
 		{BA221F03-DFAC-4A25-8FB5-3DB804961E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA221F03-DFAC-4A25-8FB5-3DB804961E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA221F03-DFAC-4A25-8FB5-3DB804961E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D413B5A-7024-49CD-B1C0-DCC04CD4E7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D413B5A-7024-49CD-B1C0-DCC04CD4E7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D413B5A-7024-49CD-B1C0-DCC04CD4E7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D413B5A-7024-49CD-B1C0-DCC04CD4E7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C020F10-056E-44E5-BDC8-1EE5AE67D838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C020F10-056E-44E5-BDC8-1EE5AE67D838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C020F10-056E-44E5-BDC8-1EE5AE67D838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C020F10-056E-44E5-BDC8-1EE5AE67D838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3DFA10-A21B-446A-B72F-0C4736D2198B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3DFA10-A21B-446A-B72F-0C4736D2198B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3DFA10-A21B-446A-B72F-0C4736D2198B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3DFA10-A21B-446A-B72F-0C4736D2198B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
