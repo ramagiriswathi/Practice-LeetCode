@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\obj\Debug\net8.0\Quiz8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\obj\Debug\net8.0\Quiz8.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\obj\Debug\net8.0\Quiz8.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\obj\Debug\net8.0\Quiz8.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\obj\Debug\net8.0\Quiz8.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\bin\Debug\net8.0\Quiz8.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\bin\Debug\net8.0\Quiz8.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\bin\Debug\net8.0\Quiz8.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\bin\Debug\net8.0\Quiz8.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\bin\Debug\net8.0\Quiz8.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\obj\Debug\net8.0\Quiz8.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\obj\Debug\net8.0\refint\Quiz8.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\obj\Debug\net8.0\Quiz8.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\obj\Debug\net8.0\Quiz8.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Quiz8\obj\Debug\net8.0\ref\Quiz8.dll
