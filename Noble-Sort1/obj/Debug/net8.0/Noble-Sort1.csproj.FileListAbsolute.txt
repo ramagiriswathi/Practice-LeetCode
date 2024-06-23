@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\bin\Debug\net8.0\Noble-Sort1.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\bin\Debug\net8.0\Noble-Sort1.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\bin\Debug\net8.0\Noble-Sort1.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\bin\Debug\net8.0\Noble-Sort1.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\bin\Debug\net8.0\Noble-Sort1.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\obj\Debug\net8.0\Noble-Sort1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\obj\Debug\net8.0\Noble-Sort1.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\obj\Debug\net8.0\Noble-Sort1.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\obj\Debug\net8.0\Noble-Sort1.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\obj\Debug\net8.0\Noble-Sort1.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\obj\Debug\net8.0\Noble-Sort1.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\obj\Debug\net8.0\refint\Noble-Sort1.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\obj\Debug\net8.0\Noble-Sort1.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\obj\Debug\net8.0\Noble-Sort1.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Noble-Sort1\obj\Debug\net8.0\ref\Noble-Sort1.dll

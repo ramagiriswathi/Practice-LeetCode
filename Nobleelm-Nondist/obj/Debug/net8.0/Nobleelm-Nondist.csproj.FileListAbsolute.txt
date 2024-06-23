@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\bin\Debug\net8.0\Nobleelm-Nondist.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\bin\Debug\net8.0\Nobleelm-Nondist.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\bin\Debug\net8.0\Nobleelm-Nondist.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\bin\Debug\net8.0\Nobleelm-Nondist.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\bin\Debug\net8.0\Nobleelm-Nondist.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\obj\Debug\net8.0\Nobleelm-Nondist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\obj\Debug\net8.0\Nobleelm-Nondist.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\obj\Debug\net8.0\Nobleelm-Nondist.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\obj\Debug\net8.0\Nobleelm-Nondist.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\obj\Debug\net8.0\Nobleelm-Nondist.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\obj\Debug\net8.0\Nobleelm-Nondist.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\obj\Debug\net8.0\refint\Nobleelm-Nondist.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\obj\Debug\net8.0\Nobleelm-Nondist.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\obj\Debug\net8.0\Nobleelm-Nondist.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Nobleelm-Nondist\obj\Debug\net8.0\ref\Nobleelm-Nondist.dll

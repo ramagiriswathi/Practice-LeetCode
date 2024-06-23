@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\bin\Debug\net8.0\Sorting-Contributiontech.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\bin\Debug\net8.0\Sorting-Contributiontech.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\bin\Debug\net8.0\Sorting-Contributiontech.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\bin\Debug\net8.0\Sorting-Contributiontech.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\bin\Debug\net8.0\Sorting-Contributiontech.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\obj\Debug\net8.0\Sorting-Contributiontech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\obj\Debug\net8.0\Sorting-Contributiontech.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\obj\Debug\net8.0\Sorting-Contributiontech.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\obj\Debug\net8.0\Sorting-Contributiontech.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\obj\Debug\net8.0\Sorting-Contributiontech.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\obj\Debug\net8.0\Sorting-Contributiontech.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\obj\Debug\net8.0\refint\Sorting-Contributiontech.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\obj\Debug\net8.0\Sorting-Contributiontech.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\obj\Debug\net8.0\Sorting-Contributiontech.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\Sorting-Contributiontech\obj\Debug\net8.0\ref\Sorting-Contributiontech.dll

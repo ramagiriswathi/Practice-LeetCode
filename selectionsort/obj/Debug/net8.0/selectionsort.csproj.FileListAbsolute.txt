@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\bin\Debug\net8.0\selectionsort.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\bin\Debug\net8.0\selectionsort.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\bin\Debug\net8.0\selectionsort.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\bin\Debug\net8.0\selectionsort.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\bin\Debug\net8.0\selectionsort.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\obj\Debug\net8.0\selectionsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\obj\Debug\net8.0\selectionsort.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\obj\Debug\net8.0\selectionsort.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\obj\Debug\net8.0\selectionsort.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\obj\Debug\net8.0\selectionsort.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\obj\Debug\net8.0\selectionsort.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\obj\Debug\net8.0\refint\selectionsort.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\obj\Debug\net8.0\selectionsort.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\obj\Debug\net8.0\selectionsort.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\selectionsort\obj\Debug\net8.0\ref\selectionsort.dll

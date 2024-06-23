@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\bin\Debug\net8.0\NobleInteger.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\bin\Debug\net8.0\NobleInteger.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\bin\Debug\net8.0\NobleInteger.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\bin\Debug\net8.0\NobleInteger.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\bin\Debug\net8.0\NobleInteger.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\obj\Debug\net8.0\NobleInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\obj\Debug\net8.0\NobleInteger.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\obj\Debug\net8.0\NobleInteger.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\obj\Debug\net8.0\NobleInteger.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\obj\Debug\net8.0\NobleInteger.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\obj\Debug\net8.0\NobleInteger.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\obj\Debug\net8.0\refint\NobleInteger.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\obj\Debug\net8.0\NobleInteger.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\obj\Debug\net8.0\NobleInteger.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\NobleInteger\obj\Debug\net8.0\ref\NobleInteger.dll

@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\bin\Debug\net8.0\MinCostofDeletion.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\bin\Debug\net8.0\MinCostofDeletion.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\bin\Debug\net8.0\MinCostofDeletion.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\bin\Debug\net8.0\MinCostofDeletion.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\bin\Debug\net8.0\MinCostofDeletion.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\obj\Debug\net8.0\MinCostofDeletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\obj\Debug\net8.0\MinCostofDeletion.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\obj\Debug\net8.0\MinCostofDeletion.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\obj\Debug\net8.0\MinCostofDeletion.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\obj\Debug\net8.0\MinCostofDeletion.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\obj\Debug\net8.0\MinCostofDeletion.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\obj\Debug\net8.0\refint\MinCostofDeletion.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\obj\Debug\net8.0\MinCostofDeletion.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\obj\Debug\net8.0\MinCostofDeletion.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\MinCostofDeletion\obj\Debug\net8.0\ref\MinCostofDeletion.dll

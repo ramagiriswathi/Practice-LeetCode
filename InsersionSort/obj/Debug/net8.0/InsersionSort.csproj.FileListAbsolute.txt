@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\bin\Debug\net8.0\InsersionSort.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\bin\Debug\net8.0\InsersionSort.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\bin\Debug\net8.0\InsersionSort.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\bin\Debug\net8.0\InsersionSort.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\bin\Debug\net8.0\InsersionSort.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\obj\Debug\net8.0\InsersionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\obj\Debug\net8.0\InsersionSort.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\obj\Debug\net8.0\InsersionSort.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\obj\Debug\net8.0\InsersionSort.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\obj\Debug\net8.0\InsersionSort.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\obj\Debug\net8.0\InsersionSort.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\obj\Debug\net8.0\refint\InsersionSort.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\obj\Debug\net8.0\InsersionSort.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\obj\Debug\net8.0\InsersionSort.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Sorting Basics\InsersionSort\obj\Debug\net8.0\ref\InsersionSort.dll
