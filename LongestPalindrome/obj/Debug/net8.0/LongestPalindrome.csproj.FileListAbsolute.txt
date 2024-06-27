@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\bin\Debug\net8.0\LongestPalindrome.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\bin\Debug\net8.0\LongestPalindrome.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\bin\Debug\net8.0\LongestPalindrome.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\bin\Debug\net8.0\LongestPalindrome.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\bin\Debug\net8.0\LongestPalindrome.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\obj\Debug\net8.0\LongestPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\obj\Debug\net8.0\LongestPalindrome.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\obj\Debug\net8.0\LongestPalindrome.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\obj\Debug\net8.0\LongestPalindrome.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\obj\Debug\net8.0\LongestPalindrome.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\obj\Debug\net8.0\LongestPalindrome.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\obj\Debug\net8.0\refint\LongestPalindrome.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\obj\Debug\net8.0\LongestPalindrome.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\obj\Debug\net8.0\LongestPalindrome.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\LongestPalindrome\obj\Debug\net8.0\ref\LongestPalindrome.dll

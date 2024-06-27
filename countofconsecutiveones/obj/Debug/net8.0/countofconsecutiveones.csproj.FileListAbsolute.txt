@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\bin\Debug\net8.0\countofconsecutiveones.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\bin\Debug\net8.0\countofconsecutiveones.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\bin\Debug\net8.0\countofconsecutiveones.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\bin\Debug\net8.0\countofconsecutiveones.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\bin\Debug\net8.0\countofconsecutiveones.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\obj\Debug\net8.0\countofconsecutiveones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\obj\Debug\net8.0\countofconsecutiveones.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\obj\Debug\net8.0\countofconsecutiveones.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\obj\Debug\net8.0\countofconsecutiveones.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\obj\Debug\net8.0\countofconsecutiveones.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\obj\Debug\net8.0\countofconsecutiveones.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\obj\Debug\net8.0\refint\countofconsecutiveones.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\obj\Debug\net8.0\countofconsecutiveones.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\obj\Debug\net8.0\countofconsecutiveones.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones\obj\Debug\net8.0\ref\countofconsecutiveones.dll
