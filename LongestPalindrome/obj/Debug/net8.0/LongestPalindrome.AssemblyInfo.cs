@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LongestPalindrome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0d90ba27efe2f79f09f38d78755cf891a0f48ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LongestPalindrome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LongestPalindrome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
