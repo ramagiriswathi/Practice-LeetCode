@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\bin\Debug\net8.0\Palindrome.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\bin\Debug\net8.0\Palindrome.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\bin\Debug\net8.0\Palindrome.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\bin\Debug\net8.0\Palindrome.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\bin\Debug\net8.0\Palindrome.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\obj\Debug\net8.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\obj\Debug\net8.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\obj\Debug\net8.0\Palindrome.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\obj\Debug\net8.0\Palindrome.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\obj\Debug\net8.0\refint\Palindrome.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\obj\Debug\net8.0\Palindrome.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\obj\Debug\net8.0\Palindrome.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Palindrome\obj\Debug\net8.0\ref\Palindrome.dll

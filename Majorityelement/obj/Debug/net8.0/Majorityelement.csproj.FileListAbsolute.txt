@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\bin\Debug\net8.0\Majorityelement.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\bin\Debug\net8.0\Majorityelement.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\bin\Debug\net8.0\Majorityelement.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\bin\Debug\net8.0\Majorityelement.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\bin\Debug\net8.0\Majorityelement.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\obj\Debug\net8.0\Majorityelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\obj\Debug\net8.0\Majorityelement.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\obj\Debug\net8.0\Majorityelement.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\obj\Debug\net8.0\Majorityelement.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\obj\Debug\net8.0\Majorityelement.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\obj\Debug\net8.0\Majorityelement.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\obj\Debug\net8.0\refint\Majorityelement.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\obj\Debug\net8.0\Majorityelement.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\obj\Debug\net8.0\Majorityelement.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\Majorityelement\obj\Debug\net8.0\ref\Majorityelement.dll

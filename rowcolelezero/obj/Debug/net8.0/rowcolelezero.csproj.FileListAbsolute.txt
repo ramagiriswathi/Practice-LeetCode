@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\bin\Debug\net8.0\rowcolelezero.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\bin\Debug\net8.0\rowcolelezero.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\bin\Debug\net8.0\rowcolelezero.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\bin\Debug\net8.0\rowcolelezero.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\bin\Debug\net8.0\rowcolelezero.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\obj\Debug\net8.0\rowcolelezero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\obj\Debug\net8.0\rowcolelezero.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\obj\Debug\net8.0\rowcolelezero.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\obj\Debug\net8.0\rowcolelezero.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\obj\Debug\net8.0\rowcolelezero.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\obj\Debug\net8.0\rowcolelezero.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\obj\Debug\net8.0\refint\rowcolelezero.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\obj\Debug\net8.0\rowcolelezero.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\obj\Debug\net8.0\rowcolelezero.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\rowcolelezero\obj\Debug\net8.0\ref\rowcolelezero.dll
