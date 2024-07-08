@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\bin\Debug\net8.0\StringconvertLtoU.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\bin\Debug\net8.0\StringconvertLtoU.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\bin\Debug\net8.0\StringconvertLtoU.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\bin\Debug\net8.0\StringconvertLtoU.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\bin\Debug\net8.0\StringconvertLtoU.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\obj\Debug\net8.0\StringconvertLtoU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\obj\Debug\net8.0\StringconvertLtoU.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\obj\Debug\net8.0\StringconvertLtoU.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\obj\Debug\net8.0\StringconvertLtoU.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\obj\Debug\net8.0\StringconvertLtoU.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\obj\Debug\net8.0\StringconvertLtoU.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\obj\Debug\net8.0\refint\StringconvertLtoU.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\obj\Debug\net8.0\StringconvertLtoU.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\obj\Debug\net8.0\StringconvertLtoU.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\StringconvertLtoU\obj\Debug\net8.0\ref\StringconvertLtoU.dll

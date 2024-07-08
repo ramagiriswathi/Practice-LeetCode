@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "RByERLe4HyZjDUdpbdEht1k8FE0dCmCbzzGonmeKdLMuv8XgQEcUuhCR0SHIBZmaf8xqPV96+uQM+Ev+2btV6Q==",
   "success": true,
   "projectFilePath": "C:\\Swathi Training_C#\\VisualCode_Leetcode\\ContestQuestions\\ContestQ2\\ContestQ2.csproj",
+=======
+  "dgSpecHash": "LuWsyD0GDPaBf3COqx3/D/MWPU9sqddmFz+P9oIUxy9fdzqPaJdJHZMy5CwfPDL8Q+CbgOHK1MdfttFfKpAJ9g==",
+  "success": true,
+  "projectFilePath": "C:\\Swathi Training_C#\\VisualCode_Leetcode\\MatrixRotation90degree\\MatrixRotation90degree.csproj",
+>>>>>>> c75ea96575e50aecad045845f6805c6bd63ad3b3
   "expectedPackageFiles": [],
   "logs": []
 }

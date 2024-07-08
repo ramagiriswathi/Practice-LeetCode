@@ -1,0 +1,14 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\bin\Debug\net8.0\DiagonalMatrix-RtoL.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\bin\Debug\net8.0\DiagonalMatrix-RtoL.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\bin\Debug\net8.0\DiagonalMatrix-RtoL.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\bin\Debug\net8.0\DiagonalMatrix-RtoL.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\bin\Debug\net8.0\DiagonalMatrix-RtoL.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\obj\Debug\net8.0\DiagonalMatrix-RtoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\obj\Debug\net8.0\DiagonalMatrix-RtoL.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\obj\Debug\net8.0\DiagonalMatrix-RtoL.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\obj\Debug\net8.0\DiagonalMatrix-RtoL.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\obj\Debug\net8.0\DiagonalMatrix-RtoL.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\obj\Debug\net8.0\refint\DiagonalMatrix-RtoL.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\obj\Debug\net8.0\DiagonalMatrix-RtoL.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\obj\Debug\net8.0\DiagonalMatrix-RtoL.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\DiagonalMatrix-RtoL\obj\Debug\net8.0\ref\DiagonalMatrix-RtoL.dll

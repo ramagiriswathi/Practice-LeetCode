@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Swathi Training_C#\\VisualCode_Leetcode\\ContestQuestions\\ContestQ2\\ContestQ2.csproj",
       "projectName": "ContestQ2",
       "projectPath": "C:\\Swathi Training_C#\\VisualCode_Leetcode\\ContestQuestions\\ContestQ2\\ContestQ2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Swathi Training_C#\\VisualCode_Leetcode\\ContestQuestions\\ContestQ2\\obj\\",
+=======
+      "projectUniqueName": "C:\\Swathi Training_C#\\VisualCode_Leetcode\\MatrixRotation90degree\\MatrixRotation90degree.csproj",
+      "projectName": "MatrixRotation90degree",
+      "projectPath": "C:\\Swathi Training_C#\\VisualCode_Leetcode\\MatrixRotation90degree\\MatrixRotation90degree.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Swathi Training_C#\\VisualCode_Leetcode\\MatrixRotation90degree\\obj\\",
+>>>>>>> c75ea96575e50aecad045845f6805c6bd63ad3b3
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\bin\Debug\net8.0\countofconsecutiveones-swap.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\bin\Debug\net8.0\countofconsecutiveones-swap.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\bin\Debug\net8.0\countofconsecutiveones-swap.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\bin\Debug\net8.0\countofconsecutiveones-swap.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\bin\Debug\net8.0\countofconsecutiveones-swap.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\obj\Debug\net8.0\countofconsecutiveones-swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\obj\Debug\net8.0\countofconsecutiveones-swap.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\obj\Debug\net8.0\countofconsecutiveones-swap.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\obj\Debug\net8.0\countofconsecutiveones-swap.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\obj\Debug\net8.0\countofconsecutiveones-swap.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\obj\Debug\net8.0\countofconsecutiveones-swap.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\obj\Debug\net8.0\refint\countofconsecutiveones-swap.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\obj\Debug\net8.0\countofconsecutiveones-swap.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\obj\Debug\net8.0\countofconsecutiveones-swap.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Strings\countofconsecutiveones-swap\obj\Debug\net8.0\ref\countofconsecutiveones-swap.dll

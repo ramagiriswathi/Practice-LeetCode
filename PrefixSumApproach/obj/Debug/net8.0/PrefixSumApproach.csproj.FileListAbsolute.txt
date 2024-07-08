@@ -1,0 +1,14 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\bin\Debug\net8.0\PrefixSumApproach.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\bin\Debug\net8.0\PrefixSumApproach.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\bin\Debug\net8.0\PrefixSumApproach.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\bin\Debug\net8.0\PrefixSumApproach.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\bin\Debug\net8.0\PrefixSumApproach.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\obj\Debug\net8.0\PrefixSumApproach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\obj\Debug\net8.0\PrefixSumApproach.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\obj\Debug\net8.0\PrefixSumApproach.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\obj\Debug\net8.0\PrefixSumApproach.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\obj\Debug\net8.0\PrefixSumApproach.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\obj\Debug\net8.0\refint\PrefixSumApproach.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\obj\Debug\net8.0\PrefixSumApproach.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\obj\Debug\net8.0\PrefixSumApproach.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\PrefixSumApproach\obj\Debug\net8.0\ref\PrefixSumApproach.dll
