@@ -1,0 +1,36 @@
+Open the terminal and navigate to the solution directory:
+cd path/to/MySolution
+
+Create a new console project:
+dotnet new console -o NewConsoleApp
+
+Add the new project to the solution:
+dotnet sln MySolution.sln add NewConsoleApp/NewConsoleApp.csproj
+
+nitialize Git Repository: 
+git init
+
+Add Files: Add the untracked files to Git. You can add specific files or all untracked files using:
+git add <file1> <file2> ...
+
+# OR to add all untracked files
+git add .
+
+Commit Changes: Commit the added files to the Git repository with a meaningful commit message:
+git commit -m "Your commit message here"
+
+Create a New GitHub Repository:
+Go to GitHub and create a new repository. Note down the repository URL (HTTPS or SSH).
+If you haven't set up SSH keys for GitHub, use the HTTPS URL. Otherwise, you can use SSH.
+Add Remote Repository: Add your GitHub repository as a remote in your local Git repository:
+
+# Using HTTPS URL (replace <URL> with your repository URL)
+git remote add origin <URL>
+
+# OR using SSH URL
+git remote add origin git@github.com:username/repository.git
+
+Push Changes: Push your committed changes to GitHub:
+git push -u origin main
+
+dotnet sln Contest.sln add ContestQ2/ContestQ2.csproj
