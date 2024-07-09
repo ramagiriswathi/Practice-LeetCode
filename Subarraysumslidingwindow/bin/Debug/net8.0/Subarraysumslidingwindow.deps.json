@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Subarraysumslidingwindow/1.0.0": {
+        "runtime": {
+          "Subarraysumslidingwindow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Subarraysumslidingwindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

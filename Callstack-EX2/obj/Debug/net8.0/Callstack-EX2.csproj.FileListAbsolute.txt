@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\bin\Debug\net8.0\Callstack-EX2.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\bin\Debug\net8.0\Callstack-EX2.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\bin\Debug\net8.0\Callstack-EX2.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\bin\Debug\net8.0\Callstack-EX2.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\bin\Debug\net8.0\Callstack-EX2.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\obj\Debug\net8.0\Callstack-EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\obj\Debug\net8.0\Callstack-EX2.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\obj\Debug\net8.0\Callstack-EX2.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\obj\Debug\net8.0\Callstack-EX2.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\obj\Debug\net8.0\Callstack-EX2.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\obj\Debug\net8.0\Callstack-EX2.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\obj\Debug\net8.0\refint\Callstack-EX2.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\obj\Debug\net8.0\Callstack-EX2.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\obj\Debug\net8.0\Callstack-EX2.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\Callstack-EX2\obj\Debug\net8.0\ref\Callstack-EX2.dll
