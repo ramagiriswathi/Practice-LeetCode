@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\bin\Debug\net8.0\WaterTrap.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\bin\Debug\net8.0\WaterTrap.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\bin\Debug\net8.0\WaterTrap.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\bin\Debug\net8.0\WaterTrap.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\bin\Debug\net8.0\WaterTrap.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\obj\Debug\net8.0\WaterTrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\obj\Debug\net8.0\WaterTrap.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\obj\Debug\net8.0\WaterTrap.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\obj\Debug\net8.0\WaterTrap.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\obj\Debug\net8.0\WaterTrap.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\obj\Debug\net8.0\WaterTrap.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\obj\Debug\net8.0\refint\WaterTrap.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\obj\Debug\net8.0\WaterTrap.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\obj\Debug\net8.0\WaterTrap.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\WaterTrap\obj\Debug\net8.0\ref\WaterTrap.dll

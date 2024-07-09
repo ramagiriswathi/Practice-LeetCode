@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\bin\Debug\net8.0\KadanesAlgorithm.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\bin\Debug\net8.0\KadanesAlgorithm.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\bin\Debug\net8.0\KadanesAlgorithm.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\bin\Debug\net8.0\KadanesAlgorithm.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\bin\Debug\net8.0\KadanesAlgorithm.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\obj\Debug\net8.0\KadanesAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\obj\Debug\net8.0\KadanesAlgorithm.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\obj\Debug\net8.0\KadanesAlgorithm.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\obj\Debug\net8.0\KadanesAlgorithm.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\obj\Debug\net8.0\KadanesAlgorithm.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\obj\Debug\net8.0\KadanesAlgorithm.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\obj\Debug\net8.0\refint\KadanesAlgorithm.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\obj\Debug\net8.0\KadanesAlgorithm.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\obj\Debug\net8.0\KadanesAlgorithm.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\KadanesAlgorithm\obj\Debug\net8.0\ref\KadanesAlgorithm.dll

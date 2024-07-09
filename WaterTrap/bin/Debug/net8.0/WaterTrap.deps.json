@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WaterTrap/1.0.0": {
+        "runtime": {
+          "WaterTrap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WaterTrap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
