@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\obj\Debug\net8.0\ContestQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\obj\Debug\net8.0\ContestQ2.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\obj\Debug\net8.0\ContestQ2.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\obj\Debug\net8.0\ContestQ2.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\obj\Debug\net8.0\ContestQ2.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\bin\Debug\net8.0\ContestQ2.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\bin\Debug\net8.0\ContestQ2.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\bin\Debug\net8.0\ContestQ2.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\bin\Debug\net8.0\ContestQ2.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\bin\Debug\net8.0\ContestQ2.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\obj\Debug\net8.0\ContestQ2.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\obj\Debug\net8.0\refint\ContestQ2.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\obj\Debug\net8.0\ContestQ2.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\obj\Debug\net8.0\ContestQ2.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\ContestQuestions\ContestQ2\obj\Debug\net8.0\ref\ContestQ2.dll

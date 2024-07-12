@@ -1,0 +1,15 @@
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\bin\Debug\net8.0\ContestQ3.exe
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\bin\Debug\net8.0\ContestQ3.deps.json
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\bin\Debug\net8.0\ContestQ3.runtimeconfig.json
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\bin\Debug\net8.0\ContestQ3.dll
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\bin\Debug\net8.0\ContestQ3.pdb
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\obj\Debug\net8.0\ContestQ3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\obj\Debug\net8.0\ContestQ3.AssemblyInfoInputs.cache
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\obj\Debug\net8.0\ContestQ3.AssemblyInfo.cs
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\obj\Debug\net8.0\ContestQ3.csproj.CoreCompileInputs.cache
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\obj\Debug\net8.0\ContestQ3.sourcelink.json
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\obj\Debug\net8.0\ContestQ3.dll
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\obj\Debug\net8.0\refint\ContestQ3.dll
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\obj\Debug\net8.0\ContestQ3.pdb
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\obj\Debug\net8.0\ContestQ3.genruntimeconfig.cache
+c:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\ContestQ3\obj\Debug\net8.0\ref\ContestQ3.dll

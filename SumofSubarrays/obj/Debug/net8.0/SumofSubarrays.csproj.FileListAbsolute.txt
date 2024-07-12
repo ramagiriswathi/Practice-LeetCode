@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\bin\Debug\net8.0\SumofSubarrays.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\bin\Debug\net8.0\SumofSubarrays.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\bin\Debug\net8.0\SumofSubarrays.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\bin\Debug\net8.0\SumofSubarrays.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\bin\Debug\net8.0\SumofSubarrays.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\obj\Debug\net8.0\SumofSubarrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\obj\Debug\net8.0\SumofSubarrays.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\obj\Debug\net8.0\SumofSubarrays.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\obj\Debug\net8.0\SumofSubarrays.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\obj\Debug\net8.0\SumofSubarrays.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\obj\Debug\net8.0\SumofSubarrays.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\obj\Debug\net8.0\refint\SumofSubarrays.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\obj\Debug\net8.0\SumofSubarrays.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\obj\Debug\net8.0\SumofSubarrays.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\1DArrays-Module6\SumofSubarrays\obj\Debug\net8.0\ref\SumofSubarrays.dll

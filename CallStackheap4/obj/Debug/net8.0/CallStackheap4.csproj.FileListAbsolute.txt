@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\bin\Debug\net8.0\CallStackheap4.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\bin\Debug\net8.0\CallStackheap4.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\bin\Debug\net8.0\CallStackheap4.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\bin\Debug\net8.0\CallStackheap4.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\bin\Debug\net8.0\CallStackheap4.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\obj\Debug\net8.0\CallStackheap4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\obj\Debug\net8.0\CallStackheap4.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\obj\Debug\net8.0\CallStackheap4.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\obj\Debug\net8.0\CallStackheap4.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\obj\Debug\net8.0\CallStackheap4.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\obj\Debug\net8.0\CallStackheap4.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\obj\Debug\net8.0\refint\CallStackheap4.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\obj\Debug\net8.0\CallStackheap4.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\obj\Debug\net8.0\CallStackheap4.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\Memory management\CallStackheap4\obj\Debug\net8.0\ref\CallStackheap4.dll
