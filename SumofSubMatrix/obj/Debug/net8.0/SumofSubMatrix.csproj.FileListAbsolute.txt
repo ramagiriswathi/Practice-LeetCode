@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\bin\Debug\net8.0\SumofSubMatrix.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\bin\Debug\net8.0\SumofSubMatrix.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\bin\Debug\net8.0\SumofSubMatrix.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\bin\Debug\net8.0\SumofSubMatrix.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\bin\Debug\net8.0\SumofSubMatrix.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\obj\Debug\net8.0\SumofSubMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\obj\Debug\net8.0\SumofSubMatrix.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\obj\Debug\net8.0\SumofSubMatrix.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\obj\Debug\net8.0\SumofSubMatrix.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\obj\Debug\net8.0\SumofSubMatrix.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\obj\Debug\net8.0\SumofSubMatrix.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\obj\Debug\net8.0\refint\SumofSubMatrix.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\obj\Debug\net8.0\SumofSubMatrix.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\obj\Debug\net8.0\SumofSubMatrix.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SumofSubMatrix\obj\Debug\net8.0\ref\SumofSubMatrix.dll

@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\bin\Debug\net8.0\MatSearch2.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\bin\Debug\net8.0\MatSearch2.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\bin\Debug\net8.0\MatSearch2.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\bin\Debug\net8.0\MatSearch2.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\bin\Debug\net8.0\MatSearch2.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\obj\Debug\net8.0\MatSearch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\obj\Debug\net8.0\MatSearch2.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\obj\Debug\net8.0\MatSearch2.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\obj\Debug\net8.0\MatSearch2.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\obj\Debug\net8.0\MatSearch2.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\obj\Debug\net8.0\MatSearch2.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\obj\Debug\net8.0\refint\MatSearch2.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\obj\Debug\net8.0\MatSearch2.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\obj\Debug\net8.0\MatSearch2.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\MatSearch2\obj\Debug\net8.0\ref\MatSearch2.dll

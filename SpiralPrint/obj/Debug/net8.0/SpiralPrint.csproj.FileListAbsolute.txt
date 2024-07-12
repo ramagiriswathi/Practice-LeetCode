@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\bin\Debug\net8.0\SpiralPrint.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\bin\Debug\net8.0\SpiralPrint.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\bin\Debug\net8.0\SpiralPrint.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\bin\Debug\net8.0\SpiralPrint.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\bin\Debug\net8.0\SpiralPrint.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\obj\Debug\net8.0\SpiralPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\obj\Debug\net8.0\SpiralPrint.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\obj\Debug\net8.0\SpiralPrint.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\obj\Debug\net8.0\SpiralPrint.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\obj\Debug\net8.0\SpiralPrint.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\obj\Debug\net8.0\SpiralPrint.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\obj\Debug\net8.0\refint\SpiralPrint.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\obj\Debug\net8.0\SpiralPrint.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\obj\Debug\net8.0\SpiralPrint.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\SpiralPrint\obj\Debug\net8.0\ref\SpiralPrint.dll

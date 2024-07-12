@@ -1,0 +1,15 @@
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\bin\Debug\net8.0\Matrixprint.exe
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\bin\Debug\net8.0\Matrixprint.deps.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\bin\Debug\net8.0\Matrixprint.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\bin\Debug\net8.0\Matrixprint.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\bin\Debug\net8.0\Matrixprint.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\obj\Debug\net8.0\Matrixprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\obj\Debug\net8.0\Matrixprint.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\obj\Debug\net8.0\Matrixprint.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\obj\Debug\net8.0\Matrixprint.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\obj\Debug\net8.0\Matrixprint.sourcelink.json
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\obj\Debug\net8.0\Matrixprint.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\obj\Debug\net8.0\refint\Matrixprint.dll
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\obj\Debug\net8.0\Matrixprint.pdb
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\obj\Debug\net8.0\Matrixprint.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode_Leetcode\2DArrays-Module6\Matrixprint\obj\Debug\net8.0\ref\Matrixprint.dll
